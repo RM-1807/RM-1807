@@ -5,8 +5,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_ONmPugOMNMU9_By2rQqTg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geovane.vrs/)
 
-![Rm GitHub stats](https://github-readme-stats.vercel.app/api?username=RM-1807&show_icons=true&theme=radical)
-
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block"><br/>
